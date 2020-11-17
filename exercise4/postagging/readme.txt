@@ -1,0 +1,1 @@
+In this folder the part of the assignment of performing part-of-speech tagging on sentences using the viterbi algorithm can be found
